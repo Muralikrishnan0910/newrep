@@ -13,6 +13,6 @@ double p3,p4;
 -(float) distance:(point *)p1 andPoint2:(point *)p2
 {
     //return pow(y-x, 2);
-    return sqrt(((p2.x-p1.x)*(p2.x-p1.x))+((p2.y-p1.y)*(p2.y-p1.y)));
+    return sqrt(pow(p2.x-p1.x,2)+pow(p2.y-p1.y,2));
 }
 @end

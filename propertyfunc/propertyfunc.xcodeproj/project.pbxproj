@@ -12,6 +12,7 @@
 		083BA1FA186E8C0E00DC4574 /* propertyfunc.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 083BA1F9186E8C0E00DC4574 /* propertyfunc.1 */; };
 		083BA202186E925700DC4574 /* point.m in Sources */ = {isa = PBXBuildFile; fileRef = 083BA201186E925700DC4574 /* point.m */; };
 		083BA208186E92AA00DC4574 /* pointdis.m in Sources */ = {isa = PBXBuildFile; fileRef = 083BA207186E92AA00DC4574 /* pointdis.m */; };
+		083BA232186EDD1800DC4574 /* pointdis1.m in Sources */ = {isa = PBXBuildFile; fileRef = 083BA231186EDD1800DC4574 /* pointdis1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,8 @@
 		083BA201186E925700DC4574 /* point.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = point.m; sourceTree = "<group>"; };
 		083BA206186E92AA00DC4574 /* pointdis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = pointdis.h; path = ../pointdis.h; sourceTree = "<group>"; };
 		083BA207186E92AA00DC4574 /* pointdis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = pointdis.m; path = ../pointdis.m; sourceTree = "<group>"; };
+		083BA230186EDD1800DC4574 /* pointdis1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointdis1.h; sourceTree = "<group>"; };
+		083BA231186EDD1800DC4574 /* pointdis1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = pointdis1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +83,8 @@
 			isa = PBXGroup;
 			children = (
 				083BA1F5186E8C0E00DC4574 /* main.m */,
+				083BA230186EDD1800DC4574 /* pointdis1.h */,
+				083BA231186EDD1800DC4574 /* pointdis1.m */,
 				083BA200186E925700DC4574 /* point.h */,
 				083BA201186E925700DC4574 /* point.m */,
 				083BA206186E92AA00DC4574 /* pointdis.h */,
@@ -152,6 +157,7 @@
 				083BA1F6186E8C0E00DC4574 /* main.m in Sources */,
 				083BA202186E925700DC4574 /* point.m in Sources */,
 				083BA208186E92AA00DC4574 /* pointdis.m in Sources */,
+				083BA232186EDD1800DC4574 /* pointdis1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

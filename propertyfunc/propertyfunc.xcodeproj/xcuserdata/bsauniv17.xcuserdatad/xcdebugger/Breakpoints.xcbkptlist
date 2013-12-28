@@ -8,11 +8,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "propertyfunc/main.m"
-         timestampString = "409907584.08427"
+         timestampString = "409920742.166174"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "27"
-         endingLineNumber = "27"
+         startingLineNumber = "33"
+         endingLineNumber = "33"
          landmarkName = "main()"
          landmarkType = "7">
       </FileBreakpoint>
@@ -34,11 +34,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "propertyfunc/main.m"
-         timestampString = "409907584.08427"
+         timestampString = "409920742.166174"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "28"
-         endingLineNumber = "28">
+         startingLineNumber = "34"
+         endingLineNumber = "34">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"

@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface point : NSObject
-@property float x,y;
+@property float x,y,z;
 @end
